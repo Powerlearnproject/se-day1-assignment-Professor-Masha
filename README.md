@@ -53,16 +53,13 @@ The internet and web application boom transformed software engineering. Decent
 
 
 4.	Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Feature	Waterfall	Agile
-Approach	Sequential and linear	Iterative and flexible
-Phases	Follows a fixed sequence (Requirements → Design → Implementation → Testing → Deployment → Maintenance)	Cycles through iterations (sprints) with continuous feedback
-Flexibility	Rigid; changes are difficult once a phase is completed	Highly adaptable to changing requirements
-Customer Involvement	Minimal; feedback is gathered after development	Continuous; customers provide feedback throughout
-Delivery Time	Software is delivered at the end of the process	Working software is delivered in small increments
-Risk Management	High risk; issues are often discovered late in development	Lower risk; early testing and feedback minimize failures
-Documentation	Heavy documentation required before development starts	Lightweight documentation; focus on working software
-Best for	Well-defined, stable projects with fixed requirements	Dynamic projects where requirements may change frequently
+The Waterfall and Agile methodologies are two distinct approaches to software development, each with its own strengths and use cases. Waterfall follows a sequential and linear approach, meaning that development progresses through fixed phases such as requirements gathering, design, implementation, testing, deployment, and maintenance. Once a phase is completed, revisiting it is difficult, making Waterfall rigid and less adaptable to changing requirements. In contrast, Agile takes an iterative and flexible approach, breaking the development process into smaller sprints or cycles. This allows for continuous improvements based on ongoing feedback.
 
+One of the key differences between the two is customer involvement. Waterfall requires minimal interaction with the customer, as feedback is typically collected only after the final product is delivered. Agile, on the other hand, emphasizes continuous collaboration, ensuring that customers provide input throughout the development process. This results in faster delivery of working software in small increments rather than waiting until the end.
+
+Another major distinction lies in risk management. Since Waterfall postpones testing until later phases, any critical issues may only surface late in development, increasing risks. Agile mitigates this by incorporating early and frequent testing, reducing the chances of major failures. Additionally, documentation plays a different role in each methodology—Waterfall requires heavy documentation upfront, ensuring detailed planning, while Agile focuses more on lightweight documentation, prioritizing working software over extensive paperwork.
+
+Waterfall is best suited for projects with well-defined, stable requirements, such as government systems or large-scale infrastructure projects where changes are minimal. Agile, on the other hand, is ideal for dynamic projects where requirements may evolve, such as mobile app development or startups creating innovative products. Understanding the strengths and limitations of each methodology helps teams choose the right approach based on their project needs.
 
 5.	Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1.	Software Developer
