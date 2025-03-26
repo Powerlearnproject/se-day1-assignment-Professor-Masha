@@ -2,7 +2,7 @@
 
 **1. Explain what software engineering is and discuss its importance in the technology industry.**
 
-	Software engineering is a systematic and disciplined approach to designing, developing, testing, deploying, and maintaining software applications.
+Software engineering is a systematic and disciplined approach to designing, developing, testing, deploying, and maintaining software applications.
  
 **Importance in the technology industry**
 
@@ -20,21 +20,21 @@
 
 **Mastering the Process**
 
-	Software engineering was born as a result of the first software crisis in this period. Enhancing quality and productivity while lowering development risk was the goal. It seemed that software development approaches defined and tracked software development. The structured modelling technique that makes execution automation possible was one of this stage's major contributions. 
+Software engineering was born as a result of the first software crisis in this period. Enhancing quality and productivity while lowering development risk was the goal. It seemed that software development approaches defined and tracked software development. The structured modelling technique that makes execution automation possible was one of this stage's major contributions. 
 
 **Mastering complexity**
 
-	With mass personal computer use, software becomes more complex. Object-Oriented (OO) methodologies like those in Smalltalk and C++ transformed software development. It improved development efficiency, as OO programming enabled improved software modularity, reusability, and maintainability. GUIs and visual programming made software more approachable. There were CASE (Computer-Aided Software Engineering) tools to support the structured and OO development.
+With mass personal computer use, software becomes more complex. Object-Oriented (OO) methodologies like those in Smalltalk and C++ transformed software development. It improved development efficiency, as OO programming enabled improved software modularity, reusability, and maintainability. GUIs and visual programming made software more approachable. There were CASE (Computer-Aided Software Engineering) tools to support the structured and OO development.
 
 **3. List and briefly explain the phases of the Software Development Life Cycle.**
 
 **Planning**
 
-	1.It defines the project scope, objective and feasibility.
+1.It defines the project scope, objective and feasibility.
 	
-	2.Estimates cost, resources, and timeline.
+2.Estimates cost, resources, and timeline.
 	
-	3.It identifies possible risks and mitigation techniques.
+3.It identifies possible risks and mitigation techniques.
 
 **Requirements Analysis**
 
